@@ -33,9 +33,9 @@ h2{
 }
 
 #informacion-personal img {
-    width: 180px; 
-    height: 180px;
-    border-radius: 100%; 
+    width: 200px; 
+    height: 200px;
+    border-radius: 40%; 
     margin-bottom: 20px;
     margin-left: 50px;
 
